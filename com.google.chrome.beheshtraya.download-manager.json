@@ -1,0 +1,9 @@
+{
+  "name": "com.google.chrome.beheshtraya.download-manager",
+  "description": "beheshtraya Download Manager",
+  "path": "com.google.chrome.beheshtraya.download-manager.bat",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://popmhdfdbnfdjlkmimfnfmgadgdnchfk/"
+  ]
+}
